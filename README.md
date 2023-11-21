@@ -1,4 +1,4 @@
-Sorting algorithms & Big O
+##Sorting algorithms & Big O
 Implementation of twelve different sorting algorithms.
 Tests ✔️
 tests: Folder of test files.
